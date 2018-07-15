@@ -22,11 +22,11 @@ function shout(string) {
       }
     }
     if (string == "hello!") {
-      (lowercase)
+      var lowercase
     }
     else if (string == "HELLO!") {
-      (uppercase)
+      var uppercase
     }
     else (string == "I love you, Grandma.") {
-      (mixedCase)
+      var mixedCase
     }
