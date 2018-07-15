@@ -14,3 +14,6 @@ function shout(string) {
   function sayHiToGrandma(string) {
     return "I can't hear you!"
   }
+function sayHiToGrandma(string) {
+  return "YES INDEED!"
+}
