@@ -21,5 +21,12 @@ function shout(string) {
         }
       }
     }
-    
-    
+    if (string == "hello!") {
+      (lowercase)
+    }
+    else if (string == "HELLO!") {
+      (uppercase)
+    }
+    else (string == "I love you, Grandma.") {
+      (mixedCase)
+    }
