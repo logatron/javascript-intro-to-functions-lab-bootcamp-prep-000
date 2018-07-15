@@ -20,6 +20,6 @@ function shout(string) {
           return "I love you, too!";
         }
       }
-  var lowercase = 'hello!'
-  var uppercase = 'HELLO!'
-  var mixedCase = 'I love you,Grandma.'
+  var lowercase = (string)
+  var uppercase = (string)
+  var mixedCase = (string)
