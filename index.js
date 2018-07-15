@@ -12,11 +12,11 @@ function shout(string) {
     console.log (string.toLowerCase())
   }
   function sayHiToGrandma(string) {
-    if (lowercase)  {
+    if (string === string.toLowerCase)  {
       return "I can't hear you" }
-      else if (uppercase)  {
+      else if (string === string.toUpperCase)  {
         return "YES INDEED!"}
-        else (mixedCase)  {
+        else (string === 'I Love you!')  {
           return "I love you, too!";
         }
       }
