@@ -14,5 +14,7 @@ function shout(string) {
   function sayHiToGrandma(string.toLowerCase) {
     return "I can't hear you!"
   }
-  function sayH
+  function sayHiToGrandma(string.toUpperCase) {
+    return string
+  }
   
