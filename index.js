@@ -12,9 +12,5 @@ function shout(string) {
     console.log (string.toLowerCase())
   }
   function sayHiToGrandma(string) {
-    return "I can't hear you!"
-  }
-  var lowercase = 'hello!'
-  lowercase.toLowerCase ()
-  if (sayHiToGrandma(string)) = (string.toLowerCase)
-  
+    if (string == "uppercase")
+   
