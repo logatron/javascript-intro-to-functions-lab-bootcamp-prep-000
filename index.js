@@ -22,6 +22,10 @@ function shout(string) {
       }
     }
     
-    var lowercase = (string)
-    var uppercase = (string)
-    var mixedCase = (string)
+    if (lowercase) == 'hello!' {
+      "I can't hear you!"
+      else if (uppercase) == 'HELLO!' {
+        "YES INDEED!"
+        else (mixedCase) == ''
+      }
+    }
