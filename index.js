@@ -26,6 +26,8 @@ function shout(string) {
       "I can't hear you!"
       else if (uppercase) == 'HELLO!' {
         "YES INDEED!"
-        else (mixedCase) == ''
+        else (mixedCase) == 'I love you, Grandma.' {
+          "I Love you, too!"
+        }
       }
     }
