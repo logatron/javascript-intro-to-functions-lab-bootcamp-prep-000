@@ -16,7 +16,7 @@ function shout(string) {
       return "I can't hear you" }
       else if (string === string.toUpperCase)  {
         return "YES INDEED!"}
-        else (string === string.tomixedCase)  {
+        else (string) {
           return "I love you, too!";
         }
       }
