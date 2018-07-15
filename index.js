@@ -12,6 +12,7 @@ function shout(string) {
     console.log (string.toLowerCase())
   }
   function sayHiToGrandma(string.toLowerCase) {
-    return ""
+    return "I can't hear you!"
   }
+  function sayH
   
