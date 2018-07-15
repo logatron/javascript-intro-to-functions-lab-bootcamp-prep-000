@@ -17,3 +17,8 @@ function shout(string) {
   var lowercase = 'hello!'
   lowercase.toLowerCase ()
   
+  function sayHiToGrandma(uppercase) {
+    return "YES INDEED!"
+  }
+  var uppercase = 'HELLO'
+  uppercase.toUpperCase ()
