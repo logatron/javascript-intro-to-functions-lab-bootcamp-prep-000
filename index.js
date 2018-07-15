@@ -19,4 +19,6 @@ function shout(string) {
   function sayHiToGrandma(uppercase) {
     return "YES INDEED!"
   }
-  var uppercase = ''
+  var uppercase = 'HELLO'
+  uppercase.toUpperCase ()
+  
