@@ -22,6 +22,6 @@ function shout(string) {
       }
     }
     
-    var lowercase = .string
-    var uppercase = .string
-    var mixedCase = .string
+    var lowercase = (string)
+    var uppercase = (string)
+    var mixedCase = (string)
